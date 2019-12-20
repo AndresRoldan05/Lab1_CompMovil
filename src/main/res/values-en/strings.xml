@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LabsCM201902</string>
+    <string name="Nombre">Name</string>
+    <string name="Apellido">Last Name</string>
+    <string name="sexo">Sex</string>
+    <string name="hombre">Men</string>
+    <string name="mujer">Women</string>
+    <string name="fecha_de_nacimiento">Birthdate</string>
+    <string name="cambiar">Change</string>
+    <string name="grado_escolaridad">School Grade</string>
+    <string name="siguiente">Next</string>
+    <string name="telefono">Phone</string>
+    <string name="correo">Email</string>
+    <string name="email">Email</string>
+    <string name="pa_s">Country</string>
+    <string name="ciudad">City</string>
+    <string name="siguiente2">Next</string>
+
+</resources>

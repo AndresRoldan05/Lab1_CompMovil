@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/telefono"
+        android:layout_width="226dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="phone"
+        android:hint="@string/telefono" />
+
+    <EditText
+        android:id="@+id/correo"
+        android:layout_width="226dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="@string/correo" />
+
+    <EditText
+        android:id="@+id/Email"
+        android:layout_width="226dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="@string/email" />
+
+    <AutoCompleteTextView
+        android:id="@+id/paises"
+        android:layout_width="229dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/pa_s" />
+
+    <AutoCompleteTextView
+        android:id="@+id/ciudad"
+        android:layout_width="229dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/ciudad" />
+
+    <Button
+        android:id="@+id/siguiente2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/siguiente2" />
+</LinearLayout>
